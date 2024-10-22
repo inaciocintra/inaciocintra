@@ -9,7 +9,7 @@
 
 ## Skills:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 <!--
 **inaciocintra/inaciocintra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
