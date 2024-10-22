@@ -3,10 +3,12 @@
 - 📫 How to reach me: inacio.cintra@gmail.com
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=inaciocintra&show_icons=true&theme=radical" alt="" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=inaciocintra&show_icons=true&theme=shadow_red" alt="" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaciocintra&layout=compact" />
 </div>
 
+Skills:
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 <!--
 **inaciocintra/inaciocintra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
