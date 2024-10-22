@@ -1,7 +1,12 @@
 ## Hello! I'm Inácio Cintra 👋
 - 📚 I’m graduating Computer Science
 - 📫 How to reach me: inacio.cintra@gmail.com
-https://github-readme-stats.vercel.app/api?username=inaciocintr&show_icons=true&theme=radical
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=inaciocintra&show_icons=true&theme=radical" alt="" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaciocintra&layout=compact" />
+</div>
+
 <!--
 **inaciocintra/inaciocintra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
